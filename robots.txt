@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /vendors/
+Disallow: /fonts/
+Disallow: /vendors/
+Disallow: /fancybox/
+Disallow: /archives/
+Disallow: /advertise/
+
+Sitemap: https://xtikas.com/sitemap.xml
+Sitemap: https://xtikas.com/baidusitemap.xml
